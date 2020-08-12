@@ -1,5 +1,11 @@
 "# tentenVRCkeyboard" 
+
+allow you to type message into a status board or just board in general in vrchat, live and dynamic
+
+right now it only support up to 12 letter, and you can hit the reset button to clear you message
 ![](1.gif)
+
+
 
 this uses driven using a custom poiyomi shader, please make sure to have poiyomi shader installed,
 then, replace 
