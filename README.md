@@ -25,8 +25,8 @@ remember to back up your controller prior to using
 
 
 add the nesscary parameter onto your avatar parameter
-![Image](https://imgur.com/gv3ZoCi),
+![Image](https://imgur.com/gv3ZoCi.png),
 
 and include the keyboard menu
 
-![Image](https://imgur.com/qS2hBAv)
+![Image](https://imgur.com/qS2hBAv.png)
