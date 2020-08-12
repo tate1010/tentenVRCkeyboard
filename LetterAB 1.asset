@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: LetterAB 1
+  m_EditorClassIdentifier: 
+  controls:
+  - name: G
+    icon: {fileID: 2800000, guid: 162e60086dc3a874fa32fbc3c4134c22, type: 3}
+    type: 101
+    parameter:
+      name: Letter
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: H
+    icon: {fileID: 2800000, guid: ffa7c4e6bd4cee744afd324dafae4620, type: 3}
+    type: 101
+    parameter:
+      name: Letter
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: I
+    icon: {fileID: 2800000, guid: c40d5863e840a6b45ab63249d2905c54, type: 3}
+    type: 101
+    parameter:
+      name: Letter
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: J
+    icon: {fileID: 2800000, guid: 974f119bf4ee5194d9dce5389c9bb3c2, type: 3}
+    type: 101
+    parameter:
+      name: Letter
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: K
+    icon: {fileID: 2800000, guid: 3bf3b89583fd792408dbf0615698c0bf, type: 3}
+    type: 101
+    parameter:
+      name: Letter
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
